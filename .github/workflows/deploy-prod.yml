@@ -10,8 +10,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <github.com/gessa2020/continuous-delivery-azure/blob/main/.github/workflows/deploy-prod.yml>-azure-ttt
-  AZURE_WEBAPP_NAME: <github.com/gessa2020/continuous-delivery-azure/blob/main/.github/workflows/deploy-prod.yml>-ttt-app
+  DOCKER_IMAGE_NAME: <gessa2020>-azure-ttt
+  AZURE_WEBAPP_NAME: <gessa2020>-ttt-app
   ###############################################
 
 jobs:
