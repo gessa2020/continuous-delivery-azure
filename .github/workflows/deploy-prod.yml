@@ -10,6 +10,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
+  #There were some limitations for successfully execution
   DOCKER_IMAGE_NAME: <gessa2020>-azure-ttt
   AZURE_WEBAPP_NAME: <gessa2020>-ttt-app
   ###############################################
